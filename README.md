@@ -3,15 +3,11 @@ About lbplatformutils
 
 Home: https://gitlab.cern.ch/lhcb-core/LbPlatformUtils
 
-Package license: GPL-3.0-or-later
+Package license: GPL-3.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lbplatformutils-feedstock/blob/main/LICENSE.txt)
 
-Summary: utilities from platform detection
-
-Development: https://gitlab.cern.ch/lhcb-core/LbPlatformUtils
-
-Documentation: https://gitlab.cern.ch/lhcb-core/LbPlatformUtils
+Summary: utilities for platform detection
 
 Current build status
 ====================
