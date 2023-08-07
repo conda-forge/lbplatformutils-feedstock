@@ -1,5 +1,5 @@
 {% set name = "lbplatformutils" %}
-{% set version = "4.3.11" %}
+{% set version = "4.3.12" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lbplatformutils-{{ version }}.tar.gz
-  sha256: dd221f80ebb6d4006f11cbba6d000eb44e5a6ec4fbe1629d80d003cf7343bd43
+  sha256: 56ac6c50b72bf52f78ed7616a06e88b29e6b5111b38fdb699853a402da3f0843
 
 build:
   number: 0
