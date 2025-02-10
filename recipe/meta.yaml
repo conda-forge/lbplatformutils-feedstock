@@ -1,5 +1,5 @@
 {% set name = "lbplatformutils" %}
-{% set version = "4.4.3" %}
+{% set version = "4.4.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/lbplatformutils-{{ version }}.tar.gz
-  sha256: ae4691c913d266c18aad997de1b31d606b6d613372663fb85e167b1325a4df80
+  sha256: ca9b4311c596bd5ede728af15f82043ca55c283fac79911b379161ad12377c25
 
 build:
-  number: 1
+  number: 0
   noarch: python
   entry_points:
     - lb-debug-platform = LbPlatformUtils.debug:main
