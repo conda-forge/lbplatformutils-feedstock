@@ -1,7 +1,7 @@
 About lbplatformutils-feedstock
 ===============================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lbplatformutils-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmptpwkd26o-feedstock/blob/main/LICENSE.txt)
 
 Home: https://gitlab.cern.ch/lhcb-core/LbPlatformUtils
 
@@ -19,8 +19,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7540&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/lbplatformutils-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmptpwkd26o-feedstock?branchName=main">
       </a>
     </td>
   </tr>
