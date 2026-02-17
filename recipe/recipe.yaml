@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: lbplatformutils
-  version: "4.6.0"
+  version: "4.6.1"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/lbplatformutils-${{ version }}.tar.gz
-  sha256: 22821979f29f9f5f55e0e6ac9b37c14197f806184f79e1fec8d871b5fcf44acd
+  sha256: 19a7a833b9274d30efa0afe8352604c24dbf0eadf0c4d7bade89ff9f3d26e51f
 
 build:
   number: 0
